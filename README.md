@@ -1,1 +1,31 @@
-# -
+<!dog type html>
+<html>
+<head>
+<title>프리시즌 아칼리 간단정리 </title>
+<meta charset="utf-8"
+</head>
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <ol>
+    <li><a href="1.html">HTML></a></li>
+    <li><a href="2.html">CSS></a></li>
+    <li><a href="3.html">JavaScript></a></li>
+    </ol>
+    <h2>index</h2>
+<h1>리그오브레전드 프리시즌 <u>아칼리</u> 간단정리</h1>
+<p style="margin-top:40px;">
+<h2><a href="https://www.op.gg/champion/akali/statistics/top" target="_blank">
+  아칼리 템트리 간편정리</a></h2>
+<p style="margin-top:80px;">
+  <h1>목차</h1>
+<h3><p style="margin-top:35px;"></h3>
+<h3><li>현재의 템트리 빌드 정리</h3>
+<h3><li>챔피언의 따른 룬,스펠,템트리 고안 방식 설명</h3>
+  <br>
+  <br>
+  <br>
+  <h3>템트리별 상황 1 - 적팀에 물몸이 많을경우</h3>
+  <br>
+<h3>룬 추천: 감전-정밀 or(라인전 상대가 원거리인 경우) 기발-자유</h3>
+<h3>템트리 : 밤의 포식자 - 리치베인 - 데켑 - 균열 - 공허 or 가엔</h3>
+<p style="margin-top:50px;"><h3><a href="http://lol.inven.co.kr/dataninfo/mastery/" target="_blank">요새 핫한 벨트를 가는 경우</a>: 벨트 - 존야후 유동적으로  or 벨트 - 리치베인 - 우주</h3>
